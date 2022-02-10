@@ -1,3 +1,7 @@
+Note that my website is inspired by my friend's, Dr. Malena Rice: http://www.astro.yale.edu/malenarice/
+
+You can find my website template information below with the credits:
+
 Dimension by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
