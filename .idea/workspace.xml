@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6340c780-ebc8-4887-8064-c603c01c50e9" name="Default" comment="" />
+    <list default="true" id="6340c780-ebc8-4887-8064-c603c01c50e9" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/images/khan_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/khan_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,11 +148,14 @@
       <recent name="$PROJECT_DIR$/developer-v1.2/assets/images" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html (3)">
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/my website/index.html">
       <method v="2" />
     </configuration>
     <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/my website/developer-v1.2/index.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/main.js/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/html5up-read-only/index.html">
@@ -157,9 +165,11 @@
       <item itemvalue="JavaScript Debug.index.html" />
       <item itemvalue="JavaScript Debug.index.html (1)" />
       <item itemvalue="JavaScript Debug.index.html (2)" />
+      <item itemvalue="JavaScript Debug.index.html (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (3)" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html (2)" />
         <item itemvalue="JavaScript Debug.index.html" />
@@ -186,6 +196,7 @@
       <workItem from="1642732976218" duration="4966000" />
       <workItem from="1642795276549" duration="209000" />
       <workItem from="1650486972796" duration="999000" />
+      <workItem from="1702184383978" duration="572000" />
     </task>
     <servers />
   </component>
