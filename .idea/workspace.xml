@@ -138,6 +138,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -195,7 +196,10 @@
       <workItem from="1642795276549" duration="209000" />
       <workItem from="1650486972796" duration="999000" />
       <workItem from="1702184383978" duration="929000" />
-      <workItem from="1702263763808" duration="403000" />
+      <workItem from="1702263763808" duration="421000" />
+      <workItem from="1704377818071" duration="460000" />
+      <workItem from="1704420142830" duration="335000" />
+      <workItem from="1706451671213" duration="1921000" />
     </task>
     <servers />
   </component>
